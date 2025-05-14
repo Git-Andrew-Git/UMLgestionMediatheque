@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>270</x>
+      <y>120</y>
+      <w>170</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>Voiture
+--
+-id: long
+--
++placeBagage(): boolean
++getters()
++setters(): void
++toString(): String
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+</diagram>
